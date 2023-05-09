@@ -1,7 +1,7 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   //CSS
-  css: ["~/assets/css/main.css"],
+  css: ["assets/css/main.css"],
   //postCSS
   postcss: {
     plugins: {
