@@ -3,6 +3,7 @@ node_modules
 # Nuxt directories
 .nuxt
 _nuxt
+.output
 dist
 yarn.lock
 package.json.lock
